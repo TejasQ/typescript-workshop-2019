@@ -1,0 +1,16 @@
+{
+  "name": "reactday-redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.7.4",
+    "@babel/preset-typescript": "^7.7.4",
+    "@types/jest": "^24.0.23",
+    "jest": "^24.9.0",
+    "typescript": "^3.7.3"
+  }
+}
